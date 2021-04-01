@@ -28,10 +28,6 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=Heroku)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
