@@ -32,4 +32,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### 📊 Weekly development breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 📫 Contact Me
+[![Linkedin Badge](https://img.shields.io/badge/-ramadhannurcj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramadhan-nur-cj/)](https://www.linkedin.com/in/ramadhan-nur-cj/)
+[![Email Badge](https://img.shields.io/badge/-adhann98@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adhann98@gmail.com)](mailto:adhann98@gmail.com)
+
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=adhann.visitor-badge)
