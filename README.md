@@ -1,4 +1,4 @@
-### Hi .. 👋
+### Hi👋 I'm Ramadhan Nur Cholis Januar
 
 - 🌱 I’m currently learning <b>Full Stack JavaScript</b>
 
@@ -27,6 +27,8 @@
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=Heroku)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📊 Weekly development breakdown
 
