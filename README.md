@@ -30,31 +30,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📊 Weekly development breakdown
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-JavaScript               49 mins             █████████████████░░░░░░░░   70.44% 
-Java                     17 mins             ██████░░░░░░░░░░░░░░░░░░░   24.16% 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.2% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-🔥 Editors: 
-VS Code                  1 hr 10 mins        █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  1 hr 10 mins        █████████████████████████   100.0%
-
-```
-
-
-<!--END_SECTION:waka-->
 
 ### 📫 Contact Me
 [![Linkedin Badge](https://img.shields.io/badge/-ramadhannurcj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramadhan-nur-cj/)](https://www.linkedin.com/in/ramadhan-nur-cj/)
