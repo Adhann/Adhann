@@ -31,6 +31,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws&logoColor=yellow)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=adhann)](https://github-readme-streak-stats.herokuapp.com/?user=adhann)
 
 
 ### 📫 Contact Me
