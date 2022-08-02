@@ -1,5 +1,16 @@
 ### Hi👋 I'm Ramadhan Nur Cholis Januar
 
+<div align="left">
+  <a href="https://app.daily.dev/Dhanz" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/adhann/adhann/blob/master/devcard.svg"
+      alt="Ramadhan Nur Cholis Januar's Dev Card"
+    />
+  </a>
+</div>
+
 - 🌱 I’m currently learning <b>Full Stack JavaScript</b>
 
 ### Languages and Tools:
