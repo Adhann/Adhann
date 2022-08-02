@@ -5,7 +5,7 @@
     <img
       width="256"
       align="right"
-      src="https://github.com/adhann/adhann/blob/master/devcard.svg"
+      src="https://github.com/Adhann/Adhann/blob/main/devcard.svg"
       alt="Ramadhan Nur Cholis Januar's Dev Card"
     />
   </a>
